@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Doble",
+        "precio": 6.5,
+        "stock": 20
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Papas Fritas",
+        "precio": 2.5,
+        "stock": 50
+    }
+]
